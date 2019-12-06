@@ -1,6 +1,6 @@
 # Nuit_Info_2019_LAB
 
-IoT in Smart University to facilate to resolve the problemes of all students
+IoT in Smart University to facilate and resolve the problems of all students
 
 ## Access to the Application demo dashboard for public users
 http://159.8.95.109:3000/login
