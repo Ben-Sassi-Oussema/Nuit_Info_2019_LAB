@@ -8,9 +8,7 @@ http://159.8.95.109:3000/login
   Password: user
 
 ## Installation and configuration in your machine (optionnal)
-install nodered
-install grafana
-install mongodb
+install nodered / grafana / mongodb
 
 then just upload the "json" files of the dashnoard and Node Red "Json" file.
 
