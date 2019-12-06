@@ -2,8 +2,10 @@
 
 IoT in Smart University
 
-## Running the Application
-
+## Access to the Application demo dashboard
+http://159.8.95.109:3000/login
+ Login : user
+  Password: user
 
 
 
